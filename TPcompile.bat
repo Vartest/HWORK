@@ -1,0 +1,1 @@
+c:\tp\tpc /b /l hwork.pas /$N+
